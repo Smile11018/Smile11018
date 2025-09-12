@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo" />
   </a>
 </div>
-## 🎯 Mission
+ 🎯 Mission
 
 As a Data Analyst with a background in Accounting, I turn raw data into meaningful insights that support smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like Excel, Power BI, Tableau, and SQL to uncover trends , track KPIs and optimize operations.
 
